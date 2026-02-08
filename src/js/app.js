@@ -64,11 +64,9 @@ window.onload = function() {
     // if includeCover is true the algorithm should show the cover image
     includeCover: true,
     // this is the image's url that will be used as a background for the profile cover
-    background:
-      "https://media.licdn.com/dms/image/v2/D4E16AQF1pkXA8p0A7g/profile-displaybackgroundimage-shrink_350_1400/B4EZscI3jxKUAY-/0/1765703646315?e=1770249600&v=beta&t=3SK6ggAqkdNMiTeXx9RWh5RNaWHO9R-kjRQyh1grMxk",
+    background: "src/images/wp4532057.webp",
     // this is the url for the profile avatar
-    avatarURL:
-      "https://media.licdn.com/dms/image/v2/D4D03AQFJBrb-cgtjTw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712691368693?e=1770249600&v=beta&t=lTNTjPvE9ojCAv2VNtgmMmY0571-3kVLZ0UyXp2YhGs",
+    avatarURL: "src/images/profile pic.jpeg",
     // social media bar position (position-left or position-right)
     socialMediaPosition: "position-right",
     // social media usernames
